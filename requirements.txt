@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+grpcio
+protobuf>=6.31.0
+grpcio-tools
